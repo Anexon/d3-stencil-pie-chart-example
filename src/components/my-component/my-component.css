@@ -1,0 +1,10 @@
+:host {
+  display: block;
+}
+
+.selected{
+  opacity: 0.8;
+}
+.not-selected{
+  opacity: 1;
+}
